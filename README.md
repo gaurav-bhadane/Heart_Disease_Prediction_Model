@@ -1,4 +1,4 @@
-# Heart Disease Prediction Using Logistic Regression
+# Heart Disease Prediction Model Using Logistic Regression
 
 This Python code implements a logistic regression model to predict the likelihood of heart disease based on various features. It uses the scikit-learn library for data preprocessing, model training, and evaluation.
 
